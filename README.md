@@ -10,6 +10,10 @@ I'm a CS student at the University of Chile, Faculty of Mathematical and Physica
 **Technology Intern, Nilpeter SA** — *Jan–Feb 2025*  
 - Developed an LLM-powered chatbot for JIRA using RAG; built data pipelines, processed 2700+ tickets, and delivered a functional prototype with documentation.
 
+## Get in Touch
+
+✉ juan.molina.l@ug.uchile.cl | Telegram: @JViisas
+
 <!--
 **Jimol1711/Jimol1711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
