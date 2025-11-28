@@ -2,6 +2,14 @@
 
 I'm a CS student at the University of Chile, Faculty of Mathematical and Physical Sciences (FCFM).
 
+## Experience
+
+**Junior Technology Intern, Grupo Amoblé SPA** — *Jan–Feb 2024*  
+- Integrated company databases with Tableau, Power BI, and Metabase; created sales reports and supported internal data system updates.
+
+**Technology Intern, Nilpeter SA** — *Jan–Feb 2025*  
+- Developed an LLM-powered chatbot for JIRA using RAG; built data pipelines, processed 2700+ tickets, and delivered a functional prototype with documentation.
+
 <!--
 **Jimol1711/Jimol1711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
