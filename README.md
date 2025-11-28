@@ -12,7 +12,9 @@ I'm a CS student at the University of Chile, Faculty of Mathematical and Physica
 
 ## Get in Touch
 
-✉ juan.molina.l@ug.uchile.cl | Telegram: @JViisas
+- ✉️ [juan.molina.l@ug.uchile.cl](mailto:juan.molina.l@ug.uchile.cl)
+- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR_USERNAME)
+- 💬 [Telegram](https://t.me/JViisas)
 
 <!--
 **Jimol1711/Jimol1711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
