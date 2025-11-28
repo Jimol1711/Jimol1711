@@ -13,7 +13,7 @@ I'm a CS student at the University of Chile, Faculty of Mathematical and Physica
 ## Get in Touch
 
 - ✉️ [juan.molina.l@ug.uchile.cl](mailto:juan.molina.l@ug.uchile.cl)
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR_USERNAME)
+- 💼 [LinkedIn](www.linkedin.com/in/juan-molina-67892628b)
 - 💬 [Telegram](https://t.me/JViisas)
 
 <!--
