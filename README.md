@@ -1,5 +1,7 @@
 ## Hi there 👋 I'm Juan
 
+I'm a CS student at the University of Chile, Faculty of Mathematical and Physical Sciences (FCFM).
+
 <!--
 **Jimol1711/Jimol1711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
